@@ -1,2 +1,3 @@
 # TammyNguyen_SingleCell
-code / documentation  
+
+A repository to track project code versions and documentation. 
