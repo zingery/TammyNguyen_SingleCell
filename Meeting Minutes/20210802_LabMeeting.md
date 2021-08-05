@@ -11,4 +11,4 @@ Discussion:
 
 
 Task:
-- to prepare an overview / refresher of single-cell RNA-seq for next BM lab meeting
+- https://github.com/zingery/TammyNguyen_SingleCell/issues/3 to prepare an overview / refresher of single-cell RNA-seq for next BM lab meeting
