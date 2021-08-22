@@ -1,4 +1,5 @@
 
-bsub -W 6:00 -n 8 -q long -R span[hosts=1] -R rusage[mem=40960] -J BMY32_1 -o bmy32.out -e bmy32.err ./run_cellranger_BMY.sh
-bsub -W 6:00 -n 8 -q long -R span[hosts=1] -R rusage[mem=40960] -J BMS32_1 -o bms32.out -e bms32.err ./run_cellranger_BMS.sh
-bsub -W 6:00 -n 8 -q long -R span[hosts=1] -R rusage[mem=40960] -J BMR32_1 -o bmr32.out -e bmr32.err ./run_cellranger_BMR.sh
+bsub -W 24:00 -n 8 -q long -R span[hosts=1] -R rusage[mem=40960] -J BMY32_1 -o bmy32.out -e bmy32.err ./run_cellranger_BMY.sh
+bsub -W 24:00 -n 8 -q long -R span[hosts=1] -R rusage[mem=40960] -J BMS32_1 -o bms32.out -e bms32.err ./run_cellranger_BMS.sh
+bsub -W 24:00 -n 8 -q long -R span[hosts=1] -R rusage[mem=40960] -J BMR32_1 -o bmr32.out -e bmr32.err ./run_cellranger_BMR.sh
+bsub -W 24:00 -n 4 -q long -R span[hosts=1] -R rusage[mem=40960] -J BM32_aggr -o bm32aggr.out -e bm32aggr.err ./run_cellranger_aggr.sh
