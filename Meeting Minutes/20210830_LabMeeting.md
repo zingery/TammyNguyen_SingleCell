@@ -6,6 +6,8 @@ Attendees: Silvia, Tammy, Tiffany, Anand, Shannon, Zinger, Qin, Javi
 
 ### Discussion 
 - Presented and discussed QC (Iteration 2)
+- [#6](https://github.com/zingery/TammyNguyen_SingleCell/issues/6) Iteration 2 : Formal single cell analysis with Seurat
+- [#7](https://github.com/zingery/TammyNguyen_SingleCell/issues/7) Study and discuss cellRanger QC report #7
 
 #### Key questions 
 - Are observations from bulk-RNA-seq observed in the single cell data?
