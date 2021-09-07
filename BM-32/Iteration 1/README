@@ -1,0 +1,3 @@
+Iteration 1 
+
+Processing of fastq files through the 10X cellranger pipeline.  The pipeline generates QC reports, Loupe browser files for each sample.
