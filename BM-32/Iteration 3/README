@@ -1,0 +1,17 @@
+Iteration 3
+
+Generating 2 seurat objects with different levels of filtering stringencies.
+
+Filtered:
+- low mitochondrial / low count cluster
+- insufficiently nuclear lysis cells
+- cells must have minimum of 500 or 2000 genes detected (min.features = 500; min.features = 2000)
+
+
+# Cell number for min.features = 500 threshold
+BMR-32 BMS-32 BMY-32 
+16183   9095   6981 
+
+# Cell number for min.features = 2000 threshold
+BMR-32 BMS-32 BMY-32 
+12307   8688   3947 
